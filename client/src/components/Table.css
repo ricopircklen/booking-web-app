@@ -1,0 +1,5 @@
+.Table Table.Header Table.Row {
+    position: sticky !important;
+    top: 0;
+    z-index: 2;
+}

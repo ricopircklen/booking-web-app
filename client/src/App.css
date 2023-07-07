@@ -1,0 +1,39 @@
+body{
+    /*Background image Unsplah: https://unsplash.com/photos/LFjxCbhs0QM*/
+    background-image: linear-gradient(to bottom, rgba(255,255,255,0.5) 100%,rgba(255,255,255,1) 100%),url(".\images\mountains.jpg");
+}
+
+.components{
+    background-color: white;
+}
+
+.ui container{
+    margin: 0!important;
+}
+
+/*.div ui container components {*/
+/*    margin-left: 10px;*/
+/*    margin-right: 10px;*/
+/*    padding-left: 10px;*/
+/*    padding-right: 10px;*/
+/*}*/
+
+/*.components{*/
+/*    margin-left: 10px!important;*/
+/*    margin-right: 10px!important;*/
+/*    padding-left: 10px!important;*/
+/*    padding-right: 10px!important;*/
+/*}*/
+
+/*@media only screen and (max-width: 767px) {*/
+/*    .ui.container.mobile {*/
+/*        width: auto !important;*/
+/*        margin-left: auto!important;*/
+/*        margin-right: auto!important;*/
+/*}*/
+/*}*/
+/*.mobile{*/
+/*width: auto !important;*/
+/*    margin-left: auto!important;*/
+/*    margin-right: auto!important;*/
+/*}*/
